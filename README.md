@@ -25,7 +25,7 @@ I'm a CS undergraduate at **Instituto Federal de Goiás**, running two research 
 - 🎯 **Learning to Rank** — risk-sensitive optimization and adaptive loss functions for ranking models, evaluated on MSLR-WEB10K with NDCG@10.
 - 📉 **Survival Analysis** — Kaplan-Meier, Nelson-Aalen, and Cox regression applied to modeling student dropout, in R and Python.
 
-I care about the math underneath the model working — not just calling `.fit()`. Outside research, I build systems in C++ (concurrency, POSIX threads) and occasionally fight with Gradle for mobile projects.
+I care about the math underneath the model working — not just calling `.fit()`.
 
 <br>
 
